@@ -6,7 +6,7 @@ bot_token = "6540793131:AAGcA4AdJ7ap8lVRwuCcpLsf0asvQHD-XKc"
 
 GROUP_TAG = "RC"
 
-sudo_users = [1315975369]
+sudo_users = [5422016608]
 
 DL_DONE_MSG = """
 ✅ <b> {} Completed In </b> <code>{}</code>
